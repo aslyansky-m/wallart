@@ -4,7 +4,7 @@
 
 </div>
 
-### App helping designing photo galleries
+### App helping to design photo galleries
 
 ## Steps:
 
