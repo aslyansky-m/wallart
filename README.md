@@ -8,14 +8,15 @@
 
 ## Steps:
 
- - buy frames (I used 10x A4, 5x 15x20, 5x 13x18 and double sided tape from Temu)
- - use resize_images.py to resize images if you hav high-res photos
- - run main.py
+ - Buy frames (I used 10x A4, 5x 15x20, 5x 13x18 and double sided tape from Temu)
+ - Use resize_images.py to resize images if you hav high-res photos
+ - Run main.py
  - Sizes are hardcoded into the code and can be changed/added
  - Press on "Load Images" and select the folder contating your photos
  - Drag to move images, left click to toggle between sizes, scroll-wheel click to delete an image
  - Progress can be saved and loaded using the buttons
- - to print 15x20 use merge_images.py
+ - Use merge_images.py to print 15x20
+ - Say thanks to ChatGPT and Copilot
 
 
 ## App view:
